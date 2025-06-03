@@ -34,23 +34,22 @@ const router = createRouter({
       path: "/organization",
       name: "organization",
       meta: { isAuth: false },
-        // redirect: "/organization/committee",
-        children: [
-          {
-            path: "/organization/committee",
-            name: "committee",
-            meta: { isAuth: false },
-            component: () => import("@/views/OrgView/Committee.vue"),
-          },
-          {
-            path: "/organization/pcmembers",
-            name: "pcmembers",
-            meta: { isAuth: false },
-            component: () => import("@/views/OrgView/PCMembers.vue"),
-
-          },
-        ],
-      },
+      // redirect: "/organization/committee",
+      children: [
+        {
+          path: "/organization/committee",
+          name: "committee",
+          meta: { isAuth: false },
+          component: () => import("@/views/OrgView/Committee.vue"),
+        },
+        {
+          path: "/organization/pcmembers",
+          name: "pcmembers",
+          meta: { isAuth: false },
+          component: () => import("@/views/OrgView/PCMembers.vue"),
+        },
+      ],
+    },
     {
       path: "/abstracts",
       name: "abstracts",
@@ -75,13 +74,27 @@ const router = createRouter({
     //   meta: { isAuth: false },
     //   component: () => import("@/views/KeyNotes/index.vue"),
     // },
-        {
+    {
       path: "/past",
       name: "past",
       meta: { isAuth: false },
-      component: () => import("@/views/PastView/index.vue"),
+      children: [
+        {
+          path: "/past/2024",
+          name: "2024",
+          meta: { isAuth: false },
+          component: () => import("@/views/OrgView/Committee.vue"),
+        },
+        {
+          path: "/past/2025",
+          name: "2025",
+          meta: { isAuth: false },
+          component: () => import("@/views/PastView/index.vue"),
+        },
+      ],
+      // component: () => import("@/views/PastView/index.vue"),
     },
-  ]
+  ],
 });
 
 // // 回到顶部

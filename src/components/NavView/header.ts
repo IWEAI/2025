@@ -47,7 +47,7 @@ export function useHeader() {
     {
       title: "ATTENDING",
       path: "/attending",
-      link:"https://www.pricai.org/2024/index.php/attending",
+      link:"https://www.pricai.org/2025/index.php",
     },
     {
       title: "LOCAL ATTRACTIONS",
@@ -56,24 +56,24 @@ export function useHeader() {
     {
       title: "PAST IWEAI",
       path: "/past",
-  //     children: [
-  //       {
-  //         title: "ORGANIZING COMMITTEE",
-  //         path: "/organization/committee",
-  //         anchor:"#committee",
+      children: [
+        {
+          title: "2024",
+          // path: "/past/2024",
+          link:"https://iweai.github.io/2024/"
 
-  //       },
-  //       {
-  //         title: "PC MEMBERS",
-  //         path: "/organization/pcmembers",
-  //         anchor:"#pcmembers",
-  //       },
-  // ]
+        },
+        {
+          title: "2025",
+          path: "/past/2025",
+          anchor:"#2025",
+        },
+  ]
     },
     {
-      title: "PRICAI2024",
-      path: "/pricai2024",
-      link:"https://pricai.org/2024/"
+      title: "PRICAI2025",
+      path: "/pricai2025",
+      link:"https://pricai.org/2025/"
     },
     
   ];

@@ -1,15 +1,15 @@
 <template>
   <div>
-    <el-select class="select" v-model="selectedYear" placeholder="选择年份" @change="handleYearChange">
+    <!-- <el-select class="select" v-model="selectedYear" placeholder="选择年份" @change="handleYearChange">
       <el-option
         v-for="year in years"
         :key="year"
         :label="year"
         :value="year"
       />
-    </el-select>
+    </el-select> -->
 
-    <el-carousel :interval="2000" type="card" height="400px" v-if="selectedYear==2024">
+    <el-carousel :interval="2000" type="card" height="400px" >
       <el-carousel-item >
         <img src="@/assets/imgs/2024/1.jpg" style="width: 100%; height: 100%; object-fit: cover;" />
       </el-carousel-item>
@@ -39,10 +39,10 @@
 </template>
 
 <script lang="ts" setup>
-import { ref, computed } from 'vue'
+// import { ref, computed } from 'vue'
 
-const selectedYear = ref(2024)
-const years = ref(['2024'])
+// const selectedYear = ref(2024)
+// const years = ref(['2024'])
 
 // // 假设图片路径根据年份动态生成
 // const photos = computed(() => {
@@ -61,9 +61,9 @@ const years = ref(['2024'])
 //   return []
 // })
 
-const handleYearChange = (year) => {
-  selectedYear.value = year
-}
+// const handleYearChange = (year) => {
+//   selectedYear.value = year
+// }
 
 // 默认选择最新年份
 // selectedYear.value = years.value[years.value.length - 1]
