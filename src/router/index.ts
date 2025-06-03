@@ -3,7 +3,7 @@ import { createRouter, createWebHistory } from "vue-router";
 //路由对应表
 
 const router = createRouter({
-  history: createWebHistory("/2024/"),
+  history: createWebHistory("/2025/"),
   routes: [
     {
       path: "/",

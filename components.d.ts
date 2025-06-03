@@ -11,7 +11,6 @@ declare module 'vue' {
     CommitteeCard: typeof import('./src/components/Org/CommitteeCard.vue')['default']
     DatesCard: typeof import('./src/components/Home/DatesCard.vue')['default']
     ElAffix: typeof import('element-plus/es')['ElAffix']
-    ElCard: typeof import('element-plus/es')['ElCard']
     ElCarousel: typeof import('element-plus/es')['ElCarousel']
     ElCarouselItem: typeof import('element-plus/es')['ElCarouselItem']
     ElCol: typeof import('element-plus/es')['ElCol']

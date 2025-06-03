@@ -16,7 +16,7 @@ export default defineConfig({
       resolvers: [ElementPlusResolver()],
     }),
   ],
-  base:"/2024/",
+  base:"/2025/",
   resolve: {
     alias: {
       "@": path.resolve(__dirname, "./src"),
