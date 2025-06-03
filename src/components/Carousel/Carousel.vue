@@ -10,7 +10,7 @@
     </el-carousel>
     <div class="overlay ">
       <div class="welcome-text ">
-        <h1 class="animate__animated animate__fadeInDown ">IWEAI 2024：The First International Workshop on Educational Artificial Intelligence</h1>
+        <h1 class="animate__animated animate__fadeInDown ">IWEAI 2025：The First International Workshop on Educational Artificial Intelligence</h1>
         <h2 class="animate__animated animate__fadeInUp">
           Kyoto, Japan
         </h2>
