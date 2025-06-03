@@ -48,7 +48,7 @@ router.afterEach((to: { path: any; }) => {
               <div class="imgs">
                 <img src="@/assets/imgs/btm-img1.png" alt="">
                 <img src="@/assets/imgs/btm-img2.png" alt="">
-                <img src="@/assets/imgs/btm-img3.png" alt="">
+                <!-- <img src="@/assets/imgs/btm-img3.png" alt=""> -->
               </div>
             </el-col>
         </el-row>

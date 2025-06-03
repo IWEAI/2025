@@ -1,14 +1,14 @@
 <template>
     <div class="program-container animate__animated animate__fadeIn" id="program">
-    <ProgramCard class="commom"></ProgramCard>
-    <!-- <TBDCard class="commom"></TBDCard> -->
+    <!-- <ProgramCard class="commom"></ProgramCard> -->
+    <TBDCard class="commom"></TBDCard>
 
     </div>
 </template>
 <script lang="ts" setup>
 import Vue from 'vue'
 import ProgramCard from '@/components/Program/ProgramCard.vue'
-// import TBDCard from '@/components/TBDView/TBDCard.vue'
+import TBDCard from '@/components/TBDView/TBDCard.vue'
 
 </script>
 

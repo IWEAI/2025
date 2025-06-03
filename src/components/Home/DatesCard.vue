@@ -3,14 +3,14 @@
             <div class="dates">
             <h2>Important Dates</h2>
             <p class="bold">Abstract Submission Deadline</p>
-            <p>August 6, 2024</p>
+            <p>August 8, 2025</p>
             <p class="bold">Acceptance Notification</p>
-            <p>August 13, 2024</p>
+            <p>August 22, 2025</p>
             <p class="bold">Camera ready deadline</p>
-            <p>September 4, 2024</p>
+            <p>August 22, 2025</p>
             <p class="bold">Workshop</p>
-            <p>November18-19, 2024</p>
-            <p class="bold">    All deadlines are at the end of the day specified, anywhere on Earth (UTC-12).</p>
+            <p>November 17, 2025</p>
+            <p class="bold">    All deadlines are at the end of the day specified, anywhere</p>
         </div>
         <!-- </el-card> -->
 </template>

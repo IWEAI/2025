@@ -5,17 +5,20 @@
         <img class="img" src='@/assets/imgs/bg.jpg' alt="">
       </el-carousel-item>
       <el-carousel-item>
-        <img class="img" src='@/assets/imgs/bg1.jpg' alt="">
+        <img class="img" src='@/assets/imgs/bg2.jpeg' alt="">
+      </el-carousel-item>
+      <el-carousel-item>
+        <img class="img" src='@/assets/imgs/bg3.jpg' alt="">
       </el-carousel-item>
     </el-carousel>
     <div class="overlay ">
       <div class="welcome-text ">
-        <h1 class="animate__animated animate__fadeInDown ">IWEAI 2025：The First International Workshop on Educational Artificial Intelligence</h1>
+        <h1 class="animate__animated animate__fadeInDown ">IWEAI 2025：The 2nd International Workshop on Educational Artificial Intelligence</h1>
         <h2 class="animate__animated animate__fadeInUp">
-          Kyoto, Japan
+          Wellington, New Zealand
         </h2>
         <h2 class="animate__animated animate__fadeInUp">
-          18-19 November 2024
+          17-18 November 2025
         </h2>
       </div>
     </div>
