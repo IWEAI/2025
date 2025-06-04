@@ -3,9 +3,9 @@
             <div class="dates">
             <h2>Important Dates</h2>
             <p class="bold">Abstract Submission Deadline</p>
-            <p>August 8, 2025</p>
+            <p>June 13, 2025</p>
             <p class="bold">Acceptance Notification</p>
-            <p>August 22, 2025</p>
+            <p>August 8, 2025</p>
             <p class="bold">Camera ready deadline</p>
             <p>August 22, 2025</p>
             <p class="bold">Workshop</p>
