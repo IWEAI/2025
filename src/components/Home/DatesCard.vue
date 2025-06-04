@@ -7,9 +7,9 @@
             <p class="bold">Acceptance Notification</p>
             <p>August 8, 2025</p>
             <p class="bold">Camera ready deadline</p>
-            <p>August 22, 2025</p>
+            <p>September 5, 2025</p>
             <p class="bold">Workshop</p>
-            <p>November 17, 2025</p>
+            <p>November 17-18, 2025</p>
             <p class="bold">    All deadlines are at the end of the day specified, anywhere</p>
         </div>
         <!-- </el-card> -->
