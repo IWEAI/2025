@@ -38,11 +38,11 @@
           <ul>
           <li>
             <strong>Abstract Submission Deadline:</strong>
-            June 13, 2025
+            August 8th, 2025
           </li>
-          <li><strong>Acceptance Notification:</strong> August 8, 2025</li>
-          <li><strong>Camera ready deadline:</strong> September 5, 2025</li>
-          <li><strong>Workshop:</strong> November 17-18, 2025</li>
+          <li><strong>Acceptance Notification:</strong>August 22nd, 2025</li>
+          <li><strong>Camera ready deadline:</strong> September 5th, 2025</li>
+          <li><strong>Workshop Date:</strong>November 17-18th, 2025</li>
         </ul>
         </ul>
         <div class="row">
@@ -55,7 +55,7 @@
                   The submission should be formatted in <a target="_blank" href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" style="color: #004076;">Springer’s Lecture Notes in Artificial Intelligence (LNAI) camera-ready style template</a>. Latex or Word template can be downloaded following the link <a target="_blank" href="https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines" style="color: #004076;">https://www.springer.com/gp/computer-science/lncs/conference-proceedings-guidelines</a>. 
                 </li>
                 <br>
-                <li>The 1-2 pages abstract should include a title of the contribution, authors’ name and affiliation, as well as a brief description of the work to present, such as the method proposed, the system developed, the study conducted, and so on. Submissions should be sent as an email attachment to <span style="color: #004076;">iweai2024@outlook.com</span>.</li>
+                <li>The 1-2 pages abstract should include a title of the contribution, authors’ name and affiliation, as well as a brief description of the work to present, such as the method proposed, the system developed, the study conducted, and so on. Submissions should be sent as an email attachment to <span style="color: #004076;">iweai2025@outlook.com</span>.</li>
                 <br>
                 <li>
                   Submissions will be reviewed by our committee members to determine relevance to our workshop. Accepted submissions will be invited to give a talk. 
@@ -90,9 +90,9 @@
               </li>
               <ul>
               <li>
-                If you have any questions or queries on IWEAI 2024, please contact us by email at: <span
+                If you have any questions or queries on IWEAI 2025, please contact us by email at: <span
                 style="color: #004076;"
-                >iweai2024@outlook.com</span
+                >iweai2025@outlook.com</span
                 >.
               </li></ul></ul>
           </div>
