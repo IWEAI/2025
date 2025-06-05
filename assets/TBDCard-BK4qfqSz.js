@@ -1,1 +1,0 @@
-import{_ as o,o as s,c,p as a,a as t,b as _}from"./index-lLzrDEDn.js";const d={},n=e=>(a("data-v-6646b5a2"),e=e(),t(),e),r={class:"tbd-card"},p=n(()=>_("span",null,"To Be Determined",-1)),i=[p];function h(e,l){return s(),c("div",r,i)}const m=o(d,[["render",h],["__scopeId","data-v-6646b5a2"]]);export{m as T};
