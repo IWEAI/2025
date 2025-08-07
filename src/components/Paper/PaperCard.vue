@@ -38,10 +38,10 @@
           <ul>
           <li>
             <strong>Abstract Submission Deadline:</strong>
-            August 8th, 2025
+            August 29th, 2025
           </li>
-          <li><strong>Acceptance Notification:</strong>August 22nd, 2025</li>
-          <li><strong>Camera ready deadline:</strong> September 5th, 2025</li>
+          <li><strong>Acceptance Notification:</strong>September 10th, 2025</li>
+          <li><strong>Camera ready deadline:</strong> September 20th, 2025</li>
           <li><strong>Workshop Date:</strong>November 17-18th, 2025</li>
         </ul>
         </ul>
