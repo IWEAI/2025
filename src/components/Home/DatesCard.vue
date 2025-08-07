@@ -7,7 +7,7 @@
             <p class="bold">Acceptance Notification</p>
             <p>September 10th, 2025</p>
             <p class="bold">Camera ready deadline</p>
-            <p>September 2th, 2025</p>
+            <p>September 20th, 2025</p>
             <p class="bold">Workshop Date</p>
             <p>November 17-18th, 2025</p>
             <p class="bold">All deadlines are at the end of the day specified, anywhere on earth.</p>
